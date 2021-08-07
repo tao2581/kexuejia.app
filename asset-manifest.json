@@ -1,13 +1,13 @@
 {
   "/umi.css": "/umi.7420c10e.css",
-  "/umi.js": "/umi.95473c7c.js",
+  "/umi.js": "/umi.4d864a18.js",
   "/umi.png": "/static/logo-sm.9358e5c4.png",
   "/t__plugin-layout__Layout.css": "/t__plugin-layout__Layout.8671a3e7.chunk.css",
   "/t__plugin-layout__Layout.js": "/t__plugin-layout__Layout.13ba89dd.async.js",
   "/p__Welcome.css": "/p__Welcome.45e68330.chunk.css",
   "/p__Welcome.js": "/p__Welcome.461828aa.async.js",
   "/p__Sniper.css": "/p__Sniper.e7595d17.chunk.css",
-  "/p__Sniper.js": "/p__Sniper.02ac4e21.async.js",
+  "/p__Sniper.js": "/p__Sniper.f2d9e12c.async.js",
   "/p__Sniper.png": "/static/uniswap-uni-logo.b26fd45e.png",
   "/p__Dxsale.js": "/p__Dxsale.62d5e121.async.js",
   "/p__CoinSafe.js": "/p__CoinSafe.39152c28.async.js",
@@ -24,8 +24,8 @@
   "/161.ec65c9fc.async.js": "/161.ec65c9fc.async.js",
   "/783.085081a0.async.js": "/783.085081a0.async.js",
   "/799.7c06ad38.async.js": "/799.7c06ad38.async.js",
-  "/453.014e73d6.chunk.css": "/453.014e73d6.chunk.css",
-  "/453.3056f4e6.async.js": "/453.3056f4e6.async.js",
+  "/705.014e73d6.chunk.css": "/705.014e73d6.chunk.css",
+  "/705.34cb5d43.async.js": "/705.34cb5d43.async.js",
   "/850.bea89104.chunk.css": "/850.bea89104.chunk.css",
   "/850.3b174260.async.js": "/850.3b174260.async.js",
   "/static/uniswap-uni-logo.b26fd45e.png": "/static/uniswap-uni-logo.b26fd45e.png",
@@ -38,5 +38,6 @@
   "/icons/icon-192x192.png": "/icons/icon-192x192.png",
   "/icons/icon-128x128.png": "/icons/icon-128x128.png",
   "/pro_icon.svg": "/pro_icon.svg",
+  "/changelog": "/changelog",
   "/CNAME": "/CNAME"
 }
